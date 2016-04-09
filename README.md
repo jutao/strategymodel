@@ -4,6 +4,7 @@
 如果要做一款收银软件，营业员根据客户所购买商品单价和数量向客户收费，这非常容易。
 
 Demo 如下：
+
 ![](http://i.imgur.com/XBz9iW5.png)
 
 点击确定后的代码逻辑如下:
@@ -151,8 +152,11 @@ MainActivity 代码修改如下：
 不过这样一旦需求变化依旧需要修改 switch ，其实想要更好的实现可以用反射方法，具体用法下次再做讨论。
 
 # Demo #
+
 [策略模式 Demo](https://github.com/jutao/strategymodel)
 
 # 参考文献 #
+
 《大话设计模式》
+
 [安卓设计模式--策略模式](http://mobile.51cto.com/ahot-418972.htm)
